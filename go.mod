@@ -1,6 +1,6 @@
 module github.com/tair/full-observability
 
-go 1.25.0
+go 1.26.0
 
 toolchain go1.26.1
 
@@ -24,7 +24,7 @@ require (
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0
 	go.opentelemetry.io/otel/sdk v1.46.0
 	go.opentelemetry.io/otel/trace v1.46.0
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 	google.golang.org/grpc v1.83.2
 	google.golang.org/protobuf v1.36.12
 	gorm.io/driver/postgres v1.6.2
