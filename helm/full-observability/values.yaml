@@ -56,7 +56,7 @@ postgresql:
   enabled: true
   image:
     repository: postgres
-    tag: "18-alpine"
+    tag: "19-alpine"
   
   persistence:
     enabled: true
